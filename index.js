@@ -6,7 +6,6 @@ var specialGuest = "Neil deGrasse Tyson";
 
 function greetSpecialGuest() {
   return "Hello," + specialGuest + "!";
-  greetSpecialGuest;
 }
 
 var topic = "space";

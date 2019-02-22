@@ -10,4 +10,6 @@ function greetSpecialGuest() {
 
 var topic = "space";
 
-var conversation = `${topic}`;
+function conversation() {
+  return`${topic}`;
+}

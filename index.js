@@ -1,4 +1,6 @@
-var greeting = "Hello, everybody!";
+function greeting() {
+ return "Hello, everybody!";
+}
 
 var specialGuest = "Neil deGrasse Tyson"
 

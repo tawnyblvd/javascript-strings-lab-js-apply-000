@@ -11,5 +11,5 @@ function greetSpecialGuest() {
 var topic = "space";
 
 function conversation() {
-  return`${topic}`;
+  return "Let's talk about ${topic}.";
 }

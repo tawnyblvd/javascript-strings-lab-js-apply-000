@@ -11,6 +11,5 @@ function greetSpecialGuest() {
 var topic = "space";
 
 function conversation() {
-  console.log(`"Let\'s talk about ${topic}."`);
+  return(`"Let\'s talk about ${topic}."`);
 }
-conversation;
